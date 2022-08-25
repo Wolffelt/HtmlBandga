@@ -1,8 +1,7 @@
 body{
     margin:0;
-
-
 }
+
 header .container {
     margin-top:10px;
     height:10%;
@@ -28,25 +27,27 @@ footer .container {
     width:100%;
 }
 
-.inner-footer{
-   background:gray;
-   border-top:solid 1px;
-
-}
 .massage{
+
     text-align: center;
 
 }
 li{
-
+    display: inline;
     list-style-type: none;
     padding:10px;
+
 }
 
 a{
 
     text-decoration:none;
-    color:black;
+    color:#5C5E62;
     padding:5px;
+}
 
+@media(max-width:485px){
+    li{
+    display:block;
+    }
 }
