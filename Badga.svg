@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="200" height="100" viewBox="0 0 200 100">
+  <defs>
+    <style>
+      .cls-1 {
+        font-size: 41.667px;
+        text-anchor: middle;
+        font-family: "Myriad Pro";
+      }
+
+      .cls-2 {
+        fill: #1d1a1a;
+        fill-rule: evenodd;
+      }
+    </style>
+  </defs>
+  <text id="Badga" class="cls-1" x="99.886" y="42.064"><tspan x="99.886">Badga</tspan></text>
+  <path class="cls-2" d="M104,80V54S212.538,63.815,104,80Z"/>
+  <path class="cls-2" d="M96,54V80S-12.046,70.185,96,54Z"/>
+</svg>
