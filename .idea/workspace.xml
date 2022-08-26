@@ -2,13 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="f269e8b2-1323-42ba-be9b-c4843173d0dd" name="Default Changelist" comment="site">
-      <change afterPath="$PROJECT_DIR$/style_mobile.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/1.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/2.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Bandga.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Bandga2.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Bandga3.jpg" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/style.css" afterDir="false" />
     </list>
@@ -90,7 +84,21 @@
       <option name="project" value="LOCAL" />
       <updated>1661409978110</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="site">
+      <created>1661412055303</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1661412055303</updated>
+    </task>
+    <task id="LOCAL-00008" summary="site">
+      <created>1661412085931</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1661412085931</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
