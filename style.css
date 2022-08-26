@@ -18,12 +18,15 @@ header .container {
    border-bottom:solid 2px;
 }
 
-.logo img{
+.logo button{
+    background-color:rgba(0,0,0,0);
+    border:0;
     display:block;
     margin-left:auto;
     margin-right:auto;
 
 }
+
 
 ul{
     list-style-type: none;
